@@ -1,1 +1,12 @@
-/* styles go here */
+.field {
+  margin-bottom: 20px;
+}
+
+.input__info {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.input__info:last-child {
+  padding: 0;
+}
